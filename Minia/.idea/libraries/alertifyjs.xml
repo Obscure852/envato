@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="alertifyjs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/resources/libs/alertifyjs/build/alertifyjs.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
